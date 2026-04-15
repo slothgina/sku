@@ -50,4 +50,4 @@ string size = "";
 
 //Console.WriteLine($"Product: {size} {color} {type}");
 
-//
+//rewrite if-else statements as switch-case

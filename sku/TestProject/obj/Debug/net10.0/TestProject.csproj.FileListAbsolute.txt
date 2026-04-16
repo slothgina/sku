@@ -12,3 +12,4 @@ C:\Users\ginag\sku\sku\TestProject\obj\Debug\net10.0\refint\TestProject.dll
 C:\Users\ginag\sku\sku\TestProject\obj\Debug\net10.0\TestProject.pdb
 C:\Users\ginag\sku\sku\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
 C:\Users\ginag\sku\sku\TestProject\obj\Debug\net10.0\ref\TestProject.dll
+C:\Users\ginag\sku\sku\TestProject\obj\Debug\net10.0\TestProject.sourcelink.json

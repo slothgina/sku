@@ -4,6 +4,7 @@
 
 //string[] product = sku.Split('-');
 
+
 //string type = "";
 //string color = "";
 //string size = "";
